@@ -1,0 +1,67 @@
+.interview_block{
+    width: 400px;
+    min-height: 50px;
+    background-color: #517ac1;
+    border-radius: 10px;
+    padding-bottom: 20px;
+}
+
+.interview_title{
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    padding-top: 25px;
+    color: #ffffff;
+}
+
+.interview_button{
+    border: none;
+    cursor: pointer;
+    width: 90%;
+    height: 40px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgba(63, 88, 130, 0.5);
+    border-radius: 10px;
+    margin-top: 10px;
+    transition: 0.3s;
+}
+
+.interview_button:hover{
+    background-color: rgba(63, 88, 130, 0.8);
+}
+
+.interview_form input{
+    border: none;
+    cursor: pointer;
+    width: 88%;
+    height: 40px;
+    background-color: rgba(63, 88, 130, 0.5);
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: #ffffff;
+}
+
+.title_input{
+    border: none;
+    cursor: pointer;
+    width: 88%;
+    height: 40px;
+    background-color: rgba(63, 88, 130, 0.2);
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-left: 1%;
+    padding-right: 1%;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.votes_count{
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+}
