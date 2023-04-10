@@ -19,7 +19,7 @@
 ### **О чем проект?**
 
 ---
-**Survey** — это настраиваемый таймер, который работает на всех видах устройств. Цель этого приложения — помочь пользователю сосредоточиться на задачах во время работы. Приложение основано на технике помидора, которая представляет собой метод управления временем, разработанный Франческо Чирилло.
+**Survey** — это приложение, которое поможет создать опрос и провести исследование. 
 
 
 ### **Технологии:**
@@ -37,8 +37,8 @@
 ---
 
 
-![](https://github.com/danilashevchenko/pomodoro-timer/blob/main/cover_app.png?raw=true)
+![](https://github.com/danilashevchenko/survey/blob/main/cover.png?raw=true)
 
 <div align="center">
-<a href="https://cw00361.tmweb.ru/pomodoro" class="gradient-button">Посмотреть приложение</a>
+<a href="https://cw00361.tmweb.ru/survey/?id=1" class="gradient-button">Посмотреть приложение</a>
 </div>
